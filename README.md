@@ -1,11 +1,57 @@
-# 1. Prolegomenon
+# 1. 绪论
 
-Type: Service Robot
+类别：服务机器人
 
 MarsCat-1001
 
-This Gitbook is provided to help you when you have issues or questions in the course of your life with MarsCat.
+本帮助指南可在您使用MarsCat的过程中遇到困难时为您提供帮助。
 
-This Gitbook is not updated regularly. The updated time and content will be on the table.
+本册不定期更新，会在此处表格写出更新时间与更新内容，不作另外的通知。
 
-Users can download the latest version from the official website of Elephant Robot at any time.
+用户可随时在官网下载最新版本的Gitbook。
+
+## 1.1 MarsCat简介
+
+![](image/README/1623064313083.png)
+
+MarsCat火星仿生猫是大象机器人自主研发的世界首款AI仿生机器猫。作为一款结合「AI技术」与「仿生设计」的未来型产品，MarsCat火星仿生猫兼具科学与技术魅力，致力于成为一款「家庭机器人」，一个可以陪伴你、给你惊喜的宠物机器人。
+
+MarsCat满足多个场景需求，包括商业展示、高端酒店客居陪伴、医院康复、科学研究等；支持个性化定制服务，可满足特殊功能的需求开发，也可基于仿生学、机器人学、人工智能技术进行相关行业的解决应用方案。
+
+## 1.2应用场景
+
+* **教育科研学习**![](image/README/1623064420819.png)
+* **商业活动展示**![](image/README/1623064439745.png)
+* **医院康复陪伴**![](image/README/1623064451168.png)
+* **高端酒店服务**![](image/README/1623064461582.png)
+
+## 1.3我们提供哪些服务
+
+**开源编程**
+
+* 四核树莓派软件编程，可二次开发
+* 提供Python、OpenCV开源接口
+
+![](image/README/1623064565709.png)
+
+**展示服务**
+
+* 配套完整的解决方案，商业吸睛神器
+* 充电桩/猫碗/猫窝皆可选，设施完备
+
+![](image/README/1623064622821.png)
+
+**定制开发**
+
+* 自主选择，支持用户定制服务
+* 满足特殊功能的个性化开发需求![](image/README/1623064657391.png)
+
+## 1.4海内外各大媒体竞相报道
+
+新华社大力举荐，央媒官方认证
+
+![](image/README/1623064705185.png)
+
+![](image/README/1623064749783.png)
+
+![](image/README/1623064761665.png)
