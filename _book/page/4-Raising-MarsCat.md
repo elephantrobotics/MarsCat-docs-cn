@@ -1,47 +1,49 @@
-# 4.Raising MarsCat
+# 4. 养猫指南
 
-## 4.1 How to raise a MarsCat
+## 4.1 如何喂养MarsCat火星仿生猫？
 
-MarsCat can recognize MarsBowl for virtual feeding, allowing customers to enjoy a real cat-breeding experience. MarsCat will also make noises when they are eating or drinking.
+MarsCat火星仿生猫可通过自主识别猫碗进行虚拟喂食，还原真实的养猫体验。
 
-There are two situations in which MarsCat can feed themselves. One is when MarsCat recognizes its MarsBowl, another is when MarsCat is thirsty or hungry, MarsCat will automatically look for its MarsBowl.
+MarsCat火星仿生猫在吃饭喝水时会发出声响。
 
+有两种情况MarsCat火星仿生猫会自主觅食：一种情况是当它识别到它的猫碗；另一种情况是当MarsCat火星仿生猫感到口渴或饥饿时，MarsCat火星仿生猫会自主寻找它的猫碗，进行觅食。
 
-Note: Place MarsBowl near MarsCat active area or Charging Station, make sure the surroundings are clean and tidy.
+请将猫碗放置在MarsCat常活动区域或充电桩附近，并确保周围干净整洁。
 
-## 4.2 How to charge
+## 4.2 如何充电
 
-**4.2.1 Automatic charging**
+**4.2.1 自动充电**
 
-Step1: Connect the charger to the Charging Station and the power socket.
+步骤一：连接充电器与充电桩，接通电源。
 
 ![](..\image\MarsCat_demo\1619491403527.png)
 
-Step2: Be sure to allow clearance around the charging station as shown below.
+步骤二：确保充电桩周围干净整洁，建议留出如图所示的空位
 
 ![](..\image\MarsCat_demo\1619491431007.png)
 
-Step3: MarsCat will go to the charging station to charge itself when its battery is lower than 10%(its eyes will show a low battery sign); the charging station is within the range of its vision(3\*3m)
+Step3: 当电池电量低于10%时，MarsCat火星仿生猫眼睛处会有低电量提醒，MarsCat火星仿生猫会自行前往充电桩充电，完成自行充电动作。
+
+注意：充电桩需在其视线范围内：3m*3m
 
 ![tempsnip](..\image\MarsCat_demo\1619491449047.png)
 
-Step4: When MarsCat is properly laid down, the battery starts charging and the status LED of the charger turns red.
+步骤4：当MarsCat火星仿生猫开始充电，电源显示灯将亮红灯。
 
 ![](..\image\MarsCat_demo\1619491465817.png)
 
-Step5: When MarsCat is fully charged, the status LED of the charger turns green.
 
-It takes approximately 3 hours to fully charge MarsCat.
+
+步骤5：当电池充满电，充电器上的显示灯将亮绿灯。
+
+电池充满电大约需要3小时。
 
 ![](..\image\MarsCat_demo\1619491480234.png)
 
-It takes approximately 3 hours to fully charge MarsCat.
+请在充满电后及时拔掉充电器，避免充电器或MarsCat由于长时间充电发热造成损害。
 
-Unplug the charger immediately after full charge to avoid damage to the charger or MarsCat due to prolonged charging heat.
+**4.2.2 手动充电**
 
-**4.2.2 Manual charging**
+当MarsCat火星仿生猫无法完成自主充电时，你需要手动给它充电。按图示方式放置火星猫，确保肚子上充电接口对准充电桩接口。
 
-When MarsCat fails to find its charging station, you need to charge it manually.
-Lay down MarsCat on the charging station so that the charging pins on the belly are engaged with the charge connector on the charging station.
-
-Or you can use the charger to charge MarsCat directly, other steps are the same as step4-5 in automatic charging.
+或者你可以直接使用充电线来给MarsCat火星仿生猫充电，其余步骤即自动充电的步骤5-6

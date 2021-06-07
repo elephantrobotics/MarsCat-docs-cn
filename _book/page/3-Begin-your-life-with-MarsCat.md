@@ -1,41 +1,38 @@
-# 3.Begin your life with MarsCat
+# 3.开始与MarsCat火星仿生猫的生活吧
 
-## 3.1 Read before unboxing
+## 3.1 开箱必读
 
-1.Please check whether the package is damaged or not before opening
+1.请在开箱前检查包装箱是否有损坏；
 
-2.Please do not unpack the box violently to avoid a physical injury or a malfunction of MarsCat, be careful and light.
+2.由于MarsCat火星猫属于精密电子产品，请不要暴力开箱以免箱内物品受损，拆卸过程请小心，注意轻拿轻放；
 
-3.Please check all items carefully in the box. If there is any omission, please contact the customer service in time.
+3.请在开箱后依次将箱内物品取出并仔细核对箱内所有物品，如有遗漏请第一时间联系客服处理；
 
-- Thank-You Card, Quick Start Guide, Usage instruction and Important Tips, please read Important Tips first.
-- MarsCat itself and its tail. The tail is removed and stored in the separate place for safety, users need to install it by themselves(remove the rubber sleeve from the receptacle hole of the tail and push the tail into it).
-- Charging Station, Charger, MarsBowl, Changeable pads\*4 and Toys(Ball/Fish)
+* 感谢卡，快速操作指南，使用指导手册，重要提示（请先阅读重要提示）
+* MarsCat火星仿生猫本体及尾巴（用户需自行安装尾巴，取下本体尾巴处的橡胶套后将尾巴推向MarsCat火星仿生猫本体尾部的插孔即可）；
+* 猫碗，充电器，充电桩（选购），猫爪垫（4个），玩具（布偶鱼/小蓝球）
 
-## 3.2 Turn on MarsCat: Wake up MarsCat
+## 3.2 开机：唤醒MarsCat火星仿生猫
 
-- Step1 Press and hold the power button art the belly of MarsCat for 2 seconds. The status LED lights in blue and MarsCat is turned on.
+- 步骤1：长按腹部电源开关按钮2s直至显示灯亮起蓝色，MarsCat火星仿生猫即进入开启模式。
 
 ![](..\image\MarsCat_demo\1619491302215.png)
 
-- Step2 Lay down MarsCat on a flat and clean floor as shown below. Wait for a while until MarsCat starts to move.
-
-![](..\image\MarsCat_demo\1619491325900.png)
-
-- Step3 When MarsCat gets up and stands still, proceed to “set up MarsCat with MarsAPP”
+- 步骤2：请将MarsCat火星仿生猫按图示姿势放置于一个干净的平面，请等待它完成开机动作后再进行下一步操作。初次使用MarsCat时，开机时间会有一些长，请耐心等待MarsCat做出开机动作。![](..\image\MarsCat_demo\1619491325900.png)
+- 步骤3：当MarsCat火星仿生猫完成开机动作，恢复站立状态后，即可进入连接MarsApp的步骤
 
 ![](..\image\MarsCat_demo\1619491344308.png)
 
-When you first turn on MarsCat, it may take a lot of time.
+当你第一次使用MarsCat火星仿生猫时，开机可能会花费较长时间，请耐心等待。
 
-## 3.3 Getting the Charging Station ready
+## 3.3 准备好充电桩
 
-Charging Station is used for MarsCat charging, the specific usage can refer to **How to use Charging Station.**
+充电桩是用来给MarsCat火星仿生猫充电的，具体的使用可以查看**如何使用充电桩**
 
-## 3.4 Set up MarsCat
+## 3.4 设置MarsCat火星仿生猫
 
-Refer to **MarsApp**
+查看**MarsApp**
 
-## 3.5 Turn off MarsCat
+## 3.5 关机
 
-If you want to turn off MarsCat, press and hold the power button at the belly of MarsCat for 5 seconds. The status LED lights in red first and then turns off later, don’t stop pressing the button until the status LED goes off.
+长按背部电源开关按钮直至显示灯亮红灯后再熄灭，请等待红灯熄灭后再停止长按动作，长按动作需持续约5s。
