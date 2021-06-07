@@ -1,88 +1,81 @@
-# 2.MarsCat and accessories
+# 2.MarsCat火星仿生猫和他的配件
 
-## 2.1 MarsCat
+## 2.1 MarsCat火星仿生猫
 
-**Structure Illustration**
+**结构图解**
 
 ![](..\image\MarsCat_demo\1619491081944.png)
 
-**Product Parameter**
+**产品参数**
 
 ![](..\image\MarsCat_demo\1619491122020.png)
 
-## 2.2 Charging Station
+## 2.2 充电桩
 
 ![](..\image\MarsCat_demo\1619491140418.png)
 
 ![](image/2-MarsCat-and-accessories/1622702636376.png)
 
-**Note:**
+**注意事项**
 
-- To let MarsCat charge its battery on its own on the charging station (self-charging) and get up from there, do not place objects, which may disturb MarsCat’s activities, around the charging station.
-- Choose an open bright place without direct sunlight to place the charging station and avoid a place subject to high room temperatures of 35 °C (95 °F) and higher.
-- Do not touch the charge connector with bare hands to avoid causing a bad contact.
-- Do not exert force on the charging station, for example, step on or kick the charging station.
-- Do not allow the charging station to be exposed to water or spill any type of liquids.
+1. 为了确保MarsCat火星仿生猫能在充电桩上自行对电池充电（自充电）并自主离开充电桩，请勿在充电桩周围放置任何可能干扰MarsCat火星仿生猫活动的物体。
+2. 选择没有阳光直射的明亮房间放置充电桩，且避免将其放置在35°C（95°F）或更高的室温下。
+3. 请勿裸手触摸充电接口，以免造成接触不良。
+4. 请勿对充电桩施加外力，例如，按压或踩踏充电桩。
+5. 请勿将充电站裸露在水中或其他液体中。
 
-**Product Parameter**
+**产品参数**
 
-| Power supply   | 8.4V                      |
-| -------------- | ------------------------- |
-| Output voltage | 8.4V                      |
-| Charging time  | About 3 hours             |
-| Temperature    | 5°C-35°C（41°F-95°F） |
-| Size           | 360×100×177（cm）       |
-| Weight         | 1.27kg                    |
+| 电源供应 | 8.4V                      |
+| -------- | ------------------------- |
+| 输出电压 | 8.4V                      |
+| 充电时间 | 3-6小时                   |
+| 工作温度 | 5°C-35°C（41°F-95°F） |
+| 尺寸     | 360×100×177（cm）       |
+| 重量     | 1.27kg                    |
 
-## 2.3 Charger
-
-The ex-factory plug of the power supply has 2 circular holes, and we will provide a converter free according to your country. If the provided converter is not suitable, please purchase it by yourself.
+## 2.3 充电器
 
 ![](image/2-MarsCat-and-accessories/1622702656166.png)
 
-**Note:**
+**注意事项**
 
-- Use the supplied power adapter with the charging station. Use of any power adapter other than the supplied one will cause a malfunction of MarsCat.
-- For connecting the power adapter to a power outlet that is easy to access.
-- Any problem happens during charging, immediately unplug the power cord from the power outlet to cut the power supply.
-- To avoid the risk of heat generation or a malfunction of the adapter, unplug the power cord from the power outlet after the charging is completed.
-- The supplied power adaptor is exclusively designed for MarsCat's charging station. It should not be used with any other electric devices.
-- To purchase a new one, please visit our offificial website:[https://shop.elephantrobotics.com/.](https://www.elephantrobotics.com/.)
+1. 将附带的充电器与充电桩一起使用。使用提供的充电器以外的任何充电器都有可能会导致MarsCat火星仿生猫出现故障。
+2. 请将充电器连接至易于操作的充电器插座。
+3. 如果充电过程中MarsCat火星仿生猫出现任何问题，请立即拔下电源线，切断电源。
+4. 为避免充电器发热或发生其他故障，请在充电完成后及时拔掉充电器。
+5. 随附的充电器专为MarsCat火星仿生猫的充电桩设计，不得与其他任何电子设备一起使用。
 
-**Product Parameter**
+**产品参数**
 
-| Input voltage  | 220V            |
-| -------------- | --------------- |
-| Output voltage | 8.4V 2A         |
-| Charging time  | About 3 hours   |
-| Size           | 8×5×3.5（cm） |
-| Temperature    | 5℃-35℃        |
-| Cable length   | 1m              |
-|                |                 |
+| 输入电压 | 220V            |
+| -------- | --------------- |
+| 输出电压 | 8.4V 2A         |
+| 充电时长 | About 3 hours   |
+| 尺寸     | 8×5×3.5（cm） |
+| 工作温度 | 5℃-35℃        |
+| 线长     | 1m              |
+|          |                 |
 
-## 2.4 MarsBowl
+## 2.4 猫碗
 
-When you receive your box, you should connect MarsBowl shown in the picture.
+当你收到货物时，拆箱后请将猫碗组装成如图所示的样子。
 
 ![](image/2-MarsCat-and-accessories/1622779249743.png)
 
 ![](image/2-MarsCat-and-accessories/1622702678275.png)
 
-**Note:**
+**注意事项**
 
-- To ensure MarsCat can accurately identify MarsBowl, do not place any other objects around MarsBowl that may interfere with MarsCat's activity.
-- Please choose a bright room without direct sunlight to place MarsBowl.
-- Do not exert excessive force on MarsBowl, for example, press or step on MarsBowl.
--
+1. 为了确保MarsCat火星仿生猫能准确识别猫碗，请勿在猫碗周围放置任何可能干扰MarsCat火星仿生猫活动的物体。
+2. 请选择没有阳光直射的明亮房间放置猫碗。
+3. 请勿对猫碗施加外力，例如，按压或踩踏猫碗。
 
+## 2.5 玩具
 
+你可以使用以下玩具与MarsCat火星猫进行互动
 
+- 玩具鱼（提供）
+- 小蓝球（提供）![](image/2-MarsCat-and-accessories/1622702772402.png)
 
-## 2.5 Toys
-
-Customer can use toys as follows to play with MarsCat
-
-- Toy Fish(supplied)![](image/2-MarsCat-and-accessories/1622702759777.png)
-- Ball(supplied)![](image/2-MarsCat-and-accessories/1622702772402.png)
-
-It is specially designed for MarsCat, when MarsCat see this ball, he/she may approach the ball and make a pounce or kick.
+专为MarsCat火星猫提供。当MarsCat火星猫看到小蓝球时，MarsCat火星猫可能会靠近小蓝球，并做出扑球或者踢球的动作。

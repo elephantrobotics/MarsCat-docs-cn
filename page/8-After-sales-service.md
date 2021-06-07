@@ -1,96 +1,93 @@
-# 8. After-sales service
+# 8. 售后服务
 
-The service terms is only applicable to users who purchased MarsCat in th offificial store of Elephant Robotics or other stores authorized by Elephant Robotics.
+本售后服务条款规定服务内容适用于在淘宝等大象机器人官方或大象机器人授权的合法渠道购买MarsCat火星仿生猫的用户。
 
-If you need after-sales service, please contact the customer service first to confirm the relevant details. After confirmation, please fill in warranty card in the last page in detail and complete the after-sales process under the guidance of customer service.
+如需售后服务，请事先联系客服（淘宝官方店铺：淘宝客服或大象机器人小管家：微信号18123841923）确认相关信息。待客服确认后，请详细填写产品保修卡，并在客服的指导下完成相应的售后服务流程。
 
-## 8.1 Receipt & Return
+注：我司在法律允许范围内保留对此售后服务条款内容解释和修改的权利。
 
-Please make sure that your package is signed for by yourself, and confirm whether the product and its color, quantity or other items are damaged or not.
-Any problem encountered please contact the customer service at the first time.
+## 8.1 签收&退货
 
-Return service is limited to goods not opened within 7 days after the receipt date of logistics of the products.
+请确保本人签收，请确认产品自带外包装完好无破损、商品配件齐全、数量正确后再签收。如发现有任何问题，请及时联系我们。
 
-The freight or other risks incurred in return shall be borne by the customer.
+自物流签收日起7日内产品未拆封可无理由退换。
 
-- Customers are responsible for paying the cost or other expenses to ship it back to Elephant Robotics, not including the cost of re-delivery.
-- Customers assume all risk of loss or damage to the Product while in transit
+因产品退换所产生的费用及其他风险需由客户承担
 
-## 8.2 Warranty Terms
+* 将产品退回到大象机器人公司的运费及其他费用，不含重新寄送的费用；
+* 产品在运输途中丢失或损坏的所有风险。
 
-- Customers should provide purchase the invoice and warranty card as the warranty certification when a warranty is being asked.
-- Elephant Robotics will be responsible for the hardware faults of products caused by the normal using during the warranty period.
-- The warranty period starts from the date of purchase or the receipt date of the logistics.
-- The faulty parts from the products will be owned by Elephant Robotics, and the appropriate cost will be charged if necessary.
+## 8.2 保修条款
 
-**Electronic Accessories （including servos）**
+* 用户如需要产品保修服务需提供相应的单据购买及产品保修卡作为保修凭证
+* 凡属于正常使用下由于产品本身质量问题引起的硬件故障，在保修期内，大象机器人将给予免费维修
 
+* 保修起始日期为物流签收日
+* 维修更换的配件归大象机器人所有(必要时会收取适当的成本费用)
 
-| **Warranty period** | **Warranty services**                                                                                                          |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| ≤90 Days           | customer shall bear the return cost and Elephant Robotics shall provide maintenance services and offer bear the shipping cost. |
-| ≥90 Days           | customers shall bear the freight out and home and maintenance costs.                                                           |
+**电子件（含舵机）**
 
-## 8.3 Non-warranty Terms
+| **保修期限** | **保修服务**               |
+| ------------------ | -------------------------------- |
+| ≤90 天            | 我司承担维修费用和产品的往返运费 |
+| ≥90 天            | 客户承担寄送往返费用及维修费用   |
 
-Neither of the following circumstances, even within the warranty period could have warranty services.
+## 8.3 非保修条款
 
-- Failure to use in accordance with the regulations caused product damage
-- The user cannot provide the relevant certificate such as purchase proof/warranty card or the relevant certificate is altered
-- The faulty parts belong to the consumption materials （such as the shell, the natural consumption wear and aging of the pads）
-- Faulty or damage caused by accident or by human
-- Other faults or damages not caused by product design technology, manufacturing, quality, and etc.
-- Products that change(replace) components without authorization.
-- Products that are scratched, defaced, rusted, oxidized or artificially damaged during transport.
+属下列情况之一者，即使在保修期内，也不能提供保修服务：
 
-## 8.4 Special Statement
+* 未按照规定使用造成损坏的产品
+* 用户无法出示相应的购买单据/产品保修卡等凭证或相关凭证被涂改
 
-- The freight or other risks incurred in warranty shall be borne by the customer.
-- The cost or other expenses to ship it back to Elephant Robotics (not including the cost of re-delivery)
-- All risk of loss or damage to the Product while in transit
+* 属于消耗材料（外壳、爪垫等部件的自然消耗、磨损及老化）
+* 因意外因素或人为因素造成的故障或损坏
 
-Our company is not responsible for any direct or indirect losses caused during the usage of products normally (including damage to user' s data records or other tangible or intangible assets).
+* 其他非产品本身设计、技术、制造、质量等问题而导致的故障或损坏
+* 未经授权私自更改（更换）组件的产品
 
-## 8.5 Repair service
+* 产品线路划伤、污损、锈蚀、氧化或在运输过程中人为损坏的产品
+* 由于不可抗拒的外力因素如：地震、雷击等造成损坏的产品
 
-When MarsCat break down during use, follow the procedure below. In order to ensure your timely service and your right to use, you should make sure that MarsCat is faulty before sending repair as far as possible.
+## 8.4 特别说明
 
-Step 1: Customers make self-testing with the assistance of Elephant Robotics, confirm that the delivery repair product is faulty
+* 因产品保修所产生的费用及其他风险需由客户承担
+* 因产品退回到大象机器人公司所产生的运费及其他费用（不含重新寄送的费用）
 
-Step 2: Customers send the damaged product back to Elephant Robotics
+* 产品在运输途中丢失或损坏的所有风险
 
-Step 3: After-sales Department of Elephant Robotics receives and transfers the product to Production Department
+以上无论何种原因导致用户无法正常使用大象机器人产品而造成的任何直接或间接损失我司均不承担任何责任（包括用户数据记录或其他有形或无形资产的损害）
 
-Step 4: Production Department confirms and repairs the damaged product
+## 8.5 返修服务流程
 
-Step 5: Production Department transfers the product back to After-sales Department after maintenance
+当产品在使用过程中发生故障时，请按照以下的流程进行处理。为了保证您的及时服务，也为了保证您的使用权利，在送修前尽量要确定这个产品是有故障的，避免送修期间影响您的使用。
 
-Step 6: After-sales Department deliver it to customer
+用户在大象机器人的协助下自行测试(确认送修产品有故障)-->交送大象机器人-->大象机器人售后服务部检测-->送大象机器人生产部维修(确认有故障的送修)--->维修后产品送回售后服务部-->送回客户
 
-Note:
+1、产品出现故障时请客户先自我检测，确定故障发生的原因；（此过程可由大象机器人科技有限公司售后人员及技术人员线上协助确认）
 
-1. When the product break down, please test it by yourself, determine the cause of the failure. This process can be confirmed by after-sales personnel and technical personnel of Elephant Robotics online assistance.
-2. If it is determined that it is a product failure, the faulty product will be returned to Elephant Robotics for repair, if a charge is required, the specific cost will inform customers, Elephant Robotics will contact the customer to consult whether to agree to repair.
-3. After product maintenance, Elephant Robotics return the product to customers.
-4. Elephant Robotics reserve the right to identify the cause of product failure.
-5. During the warranty period, the customer bears the cost of shipping back, Elephant Robotics bears the cost of repair and delivery. If it is non-warranty period, the customer is required to pay for freight out and home and repair costs.
+2、如确定是产品的故障，则将故障产品返回大象机器人进行维修，如需收费则具体费用由大象机器人联系客户咨询是否同意进行维修；
 
-## 8.6 Extended Support Care
+4、大象机器人保留对于产品故障原因进行鉴别的权利；
 
-Customers pay for MarsCat Support Care each year, in addition to the original warranty period, they will receive an additional one year of repairs that are covered by the warranty.
+5、保修期内，客户承担寄回运费，大象机器人承担修理费用及寄走费用，如非保修期内，需要客户自行支付往返运费及修理费用
 
-Contents of Extened Support Care are as follows:
+## 8.6 付费保修服务
 
-- Limited return repair services three times a year
-- Price:499 dollars/year
+大象机器人支持付费保修服务，即客户每年支付MarsCat Support Care相关费用，可在原有的保修期的基础上继续享有新一年的维修服务。
 
-Actual instructions are based on the information in the purchase interface
+具体服务内容如下：
 
-## 8.7 Users Notice
+* 一年3次限定寄回返修服务
+* 价格：2499元/年
 
-1. Please remember to store and copy your user data before sending it to repair, because the data and other Settings may not be retained after repairment.
-2. Since our MarsCat are precision electronic products, customers shall return the product in a safe and reliable packing and transportation method to avoid further damage due to transportation. We suggest that the customer apply for transportation insurance. For the loss caused by transportation or other force majeure during the transportation, our company will not bear the compensation.
-3. The repair period will be determined by logistics and the degree of damage to the returned product and will be informed to the customer upon receipt of the repaired item.
+实际请以购买界面的信息为准
 
-**Note: Our company reserves the right to interpret and modify the warranty card by law.**
+## 8.7 客户需知
 
+（1）尽量在送修前存储拷贝用户数据，因为在维修后可能造成数据和其他设置不可保留
+
+（2）由于我司产品MarsCat火星仿生猫属于精密电子产品（客户返还产品时注意采用安全可靠的包装和运输方式，以避免由于运输造成更加严重的损坏。建议客户办理运输的保险，对于运输途中由于运输原因或其他不可抗拒原因造成的损失，我司将不承担赔偿，敬请谅解。
+
+（3）维修期将通过物流及返还的产品受损程度来定，会在收到返修物品后告知客户。
+
+本服务条款最终解释权属于深圳市大象机器人科技有限公司。

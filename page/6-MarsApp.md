@@ -1,48 +1,48 @@
 # 6.MarsApp
 
-## 6.1 Introduction
+## 6.1 应用简介
 
-MarsApp is designed for you to better interact with MarsCat, and help you enjoy the life of MarsCat.
+MarsApp是针对于MarsCat火星仿生猫专门研发的应用程序，您可以通过MarsAPP更好地与MarsCat火星仿生猫互动，了解其成长，帮助您更舒适地享受MarsCat火星仿生猫的生活。
 
-**Installation**
+**安装**
 
-Install the MarsApp to your smartphone.
+安装MarsApp到你的手机上
 
-1.Google: [MarsCat – Elephant Robotics](https://www.elephantrobotics.com/en/mars-en/)
+1.官网谷歌下载：[MarsCat – Elephant Robotics](https://www.elephantrobotics.com/en/mars-en/)
 
-You can find download on official website shown in the following picture.
+你可以在官网找到
 
 ![](image/6-MarsApp/1622703039803.png)
 
-2.search MarsApp on Apple Store
+2.在苹果的应用商店-APPLE STORE搜索Mars App
 
 ![](image/6-MarsApp/1622801259166.png)
 
-**Version Support**
+**版本支持**
 
-Supported operating system for MarsApp for smartphones
+适用于智能手机的Mars App应用程序支持的操作系统
 
-**Language Support**
+语言支持
 
-- Chinese
-- English
+- 中文
+- 英文
 
-**Online settings**
+**联机设置**
 
-Open app--click connecting Bluetooth--choose the MarsCat you want to connect
+打开APP--点击蓝牙连接--选择你要连接的MarsCat火星仿生猫
 
-- Search successfully: the page shows "connect", click it
-- Search unsuccessfully: the page shows "not find MarsCat"
+* 搜索成功，页面显示“连接”点击即可；
+* 搜索失败，页面显示“没有搜索到火星猫”
 
-If the search fails, please check the status of your Bluetooth and MarsCat and try again.
+如果连接失败，请重新连接或检查你的蓝牙以及MarsCat火星猫的状态。
 
-**Software update**
+**软件更新**
 
-We recommend that you update your MarsApp to the latest version.
+您可以在MarsAP应用程序的“设置”屏幕上检查系统软件的最新更新，或更改更新方法（自动或手动更新）。建议您将系统软件更新为最新版本。
 
-## 6.2 How to use MarsApp
+## 6.2 如何使用MarsApp
 
-Follow the on-screen instructions to set up MarsCat with MarsApp.
+跟随屏幕指导使用MarsApp设置MarsCat火星仿生猫
 
 <img src="..\image\MarsCat_demo\_app1.png" alt="图片替换文本" width="400" height="600" align="bottom" />
 
@@ -52,27 +52,32 @@ Follow the on-screen instructions to set up MarsCat with MarsApp.
 
 <img src="..\image\MarsCat_demo\_app4.png" alt="图片替换文本" width="400" height="600" align="bottom" />
 
-P1: Learn the basic parameters for personalization settings.
 
-You can visit "Basics" in the menu to
 
-- Set MarsCat's eye color
-- Set MarsCat's sex
-- Set MarsCat's sleep time
+**P1：了解各项基本参数，拥有更多个性化设置**
 
-P2: Record dynamic data in real time to track growth trajectory.
+您可以通过【基础信息】
 
-You can use "Status" in the menu to
+* 设置MarsCat火星猫眼睛颜色
+* 设置MarsCat火星猫性别
+* 设置MarsCat火星猫睡眠时间
 
-- Learn about MarsCat's Levels and Experience Values
-- Learn about the status of MarsCat
-- Learn about MarsCat's daily index
+**P2：实时记录动态数据，追踪成长轨迹**
 
-P3: Remote control to unlock more interactive games
+您可以通过【统计资料】
 
-You can visit "Play" in the menu to
+* 了解MarsCat火星猫等级&经验值
 
-- Control MarsCat's move
-- Display MarsCat's voice
-- Display MarsCat's vision
-- Display MarsCat's sensor
+* 了解MarsCat火星猫状态
+* 了解MarsCat火星猫日常指数
+
+**P3：拖动示教动作指令，解锁与MarsCat游戏互动**
+
+您可以通过【操控】
+
+* 控制MarsCat火星猫移动
+* 控制MarsCat火星猫语音
+
+* 控制MarsCat火星猫视觉
+
+l 控制MarsCat火星猫传感器

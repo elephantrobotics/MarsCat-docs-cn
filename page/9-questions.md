@@ -1,125 +1,117 @@
-# 9. Frequently asked questions/contact information
+# 9. 常见问题/联系信息
 
-## 9.1Frequently asked questions
+## 9.1常见问题
 
-**9.1.1Hardware**
+### **9.1.1硬件**
 
-**1.MarsCat’s eyes will flash**
+**1.MarsCat火星仿生猫的眼睛会出现闪屏的状态**
 
-There are different settings of MarsCat's eyes, trigger conditions are also different.
+MarsCat的眼睛有不同的设定，触发条件也不同。
 
-It's not every time MarsCat responds when you make a trigger action.
+不是每次做出触发动作MarsCat就能做出回应，但如果MarsCat的眼睛长时间没有变化，请联系售后。
 
-**2.How to maintain the battery after a long time non-use?**
+**2.电池长时间不用该如何保养**
 
-Save the battery after charging, besides, charge it every 3-6 months to prevent it from aging.
+电池请充电后保存；为防止电池老化请每3-6个月对电池充电一次
 
-**3.Battery Replacement**
+**3.电池更换**
 
-The battery model is INR18650MJ1-2S2P and is supplied exclusively by Elephant Robotics. For new battery to replace, please visit official website for information and to make a purchase: [https://www.elephantrobotics.com](https://www.elephantrobotics.com)
+电池型号为INR18650MJ1-2S2P，由大象机器人专供。
 
-**4.How to charge MarsCat**
+如需换新，请访问大象机器人官网查阅相关信息并进行购买https://www.elephantrobotics.com/。
 
-①Charging Station:
+**4.如何给MarsCat火星仿生猫充电**
 
-Connect the charger to the charging station and the power socket. You can charge it manually. Lay down MarsCat on the charging station so that the charging pins on the belly are engaged with the charge connector on the charging station.
+①充电桩
 
-MarsCat will go to the charging station to charge itself when its battery is lower than 10%(its eye will show a low battery sign); and the charging station is within the range of its vision(3\*3m)
+连接充电桩与电源线，自行将MarsCat火星仿生猫放到充电桩上，确保肚子上的充电接口对准充电桩接口，对准后即可充电；
 
-②Charger
+或当MarsCat火星仿生猫自身电量低于10%时，MarsCat火星仿生猫会自动前往充电桩进行充电。需要保证充电桩在MarsCat火星仿生猫的视线范围内（3*3m）
 
-You can charge MarsCat directly with the charger, adjust MarsCat to an upturned position, plug the charger into the charging pins on the belly.
+②充电器
 
-When MarsCat is charging, the battery starts charging and the status LED of the charger turns red.
+需要将MarsCat火星仿生猫调整为仰面姿势，将电源线插到MarsCat火星仿生猫肚子的充电接口处。
 
-When MarsCat is fully charged, the status LED of the charger turns green. It takes approximately 3 hours to fully charged MarsCat.
+当MarsCat火星仿生猫开始充电，电源显示灯将亮红灯
 
-**5.It can't be charged, it still shows low charge after a long time charging**
+当电池充满电，充电器上的显示灯将亮绿灯，电池充满电大约需要3小时。
 
-①When charging, confirm that the charger display proper light, the charger should turn red.
+**5.充电充不进去，充了很久依然显示电量低**
 
-②Check the charger plug and whether the charging pins on the belly is plugged in, or the charger is damaged.
+①充电时确认电源显示灯是否正常亮起；
 
-**6.How long does it take to fully charge, how long can MarsCat play with full power?**
+②检查充电器插头以及机器人充电接口是否插好，充电线是否有损坏。
 
-①It takes about 3 hours for the battery to fully charge, 2 hours for active exercise and 3-4 hours for regular exercise.
+**6.充满电需要多久，满电可以玩多久**
 
-②If the battery is not used for a long time, it may take more time to charge the battery.
+①电池充满电大约需要3小时；活跃运动2小时，常规运动3~4小时；
 
-**7.MarsCat have no reaction and all light are not on after pressing the power
-key for a long time.**
+②如果长时间未使用则可能需要更多时间为电池充电。
 
-①Confirm whether MarsCat has electricity, you can recharge it for a period of time, then try again.
+**7.长按电源键，MarsCat火星仿生猫没有反应，灯光均没有亮起**
 
-②Operate incorrectly, press and hold the power button at the belly of MarsCaat for 2 seconds is ok.
+①首先确认机器人是否有电，可充电一段时间后重试；
 
-**8.MarsCat's eyes have always been the shape of lightning**
+②电源键没有操作正确，长按电源开关2s直至显示灯亮起蓝色即可。
 
-MarsCat's eyes appears lightning because he hear your calling, if lightning appears within your calling, it may be due to misidentification.
+**8.MarsCat火星仿生猫的眼睛一直是闪电的形状**
 
-**9.MarsCat's eyes**
+MarsCat火星仿生猫眼睛出现闪电是因为听到呼唤他，如果没有呼唤他也出现了此种情况，可能是因为误识别。
 
-Different behaviors trigger different shapes.
+### **9.1.2 软件**
 
-When touching MarsCat, there is a possibility of the shape of love.
+软件问题在测试中已经解决，如果发现了新的问题，请与客服联系。
 
-When calling MarsCat, there is a possibility that lightning will appear.
+大多数软件问题是因为蓝牙连接不稳定所造成。
 
-**9.1.2Software**
+### **9.1.3 其他**
 
-We have solved problems with the software during testing.
+**1.尾巴的安装、爪垫的更换**
 
-If you have any other problems about software, please contact customer service for solution.
+客户收到货物时，MarsCat的尾巴与身体是分装的，需自行组装尾巴。取下本体尾巴处的橡胶套后将尾巴推向MarsCat火星仿生猫本体尾部的插孔即可。
 
-**9.1.3Others**
+配备了四个可更换爪垫
 
-**1.Installation of tail, claw pads replacement**
+**2.行走中卡顿或者有异响**
 
-The tail is removed and stored in the separate place for safety, users need to install it by themselves. Remove the rubber sleeve from the receptacle hole of the tail and then push the tail into it.
+①重新启动机器观察异响是否停止；
 
-Four changeable pads is attached.
+②联系客服，确认是否寄回售后检测。
 
-**2.There may be an unusual sound when walking, or walking is not smooth**
+**3.呼唤MarsCat未得到回应/语音未识别**
 
-①Restart the machine to see if the noise stops
+①检查麦克风附近是否有堵塞；
 
-②Contact customer service to confirm whether to send back for after-sales repairs
+②尝试安静的环境重新操作。
 
-**3.Calling MarsCat was not answered/voice unrecognized**
+③最好是在在安静、不嘈杂的环境中呼唤MarsCat；
 
-①Check for blockages near the microphone
+④与MarsCat在一定范围的距离内，或是音量足够大，使听觉传感器能够识别到声音；
 
-②Try to re-operate in a quiet environment
+**4.后腿关节无法活动**
 
-③It is best to call MarsCat in a quiet, non-noisy environment
+MarsCat的关节是有限制角度的，不能强硬掰动，可能会造成关节断裂等。
 
-④Within a certain distance from MarsCat, or the volume is large enough to enable the auditory sensor to recognize your sound
+**5.MarsCat走路或者做某些动作时候无法保持稳定，会摔倒**
 
-**4.The hind legs can't move**
+①首先确认地面是否平整或过于光滑，尝试更换地面重新操作；
 
-MarsCat's joint have a limited angle, you shouldn’t move it hard, it may cause joint fractures.
+②检查腿部关节是否受损，多次重启尝试；
 
-**5.MarsCat is not stable when walking or doing some movements, and it may fall.**
+以上问题如果不能通过gitbook得到解决，请联系售后进行处理。
 
-①Confirm whether the ground is flat or too smooth, try to change ground and re-operation
+**6.前方有障碍物却无法识别**
 
-②Check whether the leg joint is damaged, you need multiple restart attempts.
+障碍物低于MarsCat火星仿生猫，无法被视觉传感器识别到，可帮助MarsCat避开障碍物或将障碍物移开。
 
-If the above issues cannot be resolved through gitbook, please contact customer
-service for solution
+## 9.2 **联系方式**
 
-**6.There are obstacles ahead MarsCat but it can't be identified**
+深圳市大象机器人科技有限公司
 
-Obstacles are lower than MarsCat, so it can't be recognized by visual sensor. You can help MarsCat far from obstacles or remove the obstacles.
+地址：深圳市南山区桃源街道留仙大道南山云谷创新产业园二期7栋
 
-## 9.2 Contact information
+邮件：[support@elephantrobotics.com](support@elephantrobotics.com)
 
-Shenzhen Elephant Robotics Technology Co., Ltd
+电话：+86（0755）-8696-8565（工作时间9:30-18:30）
 
-Address: B7, Yungu Innovative Industrial Park 2, Nanshan, Shenzhen, China
-
-Email: <support@elephantrobotics.com>
-
-Phone:+86(0755)-8696-8565(working day 9:30-18:30)
-
-Website: www.elephantrobotics.com
+网址：[www.elephantrobotics.com](http://www.elephantrobotics.com)

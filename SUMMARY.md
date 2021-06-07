@@ -1,12 +1,11 @@
 # Summary
 
-* [1 Prolegomenon](README.md)
-* [2 MarsCat and accessories](page/2-MarsCat-and-accessories.md)
-* [3 Begin your life with MarsCat](page/3-Begin-your-life-with-MarsCat.md)
-* [4 Raising MarsCat](page/4-Raising-MarsCat.md)
-* [5 Character Development](page/5-Character-Development.md)
+* [1 绪论](README.md)
+* [2 MarsCat火星仿生猫及配件](page/2-MarsCat-and-accessories.md)
+* [3 开始与MarsCat火星仿生猫的生活吧](page/3-Begin-your-life-with-MarsCat.md)
+* [4 养猫指南](page/4-Raising-MarsCat.md)
+* [5 性格养成](page/5-Character-Development.md)
 * [6 MarsApp](page/6-MarsApp.md)
-* [7 Notes on use](page/7-Notes-on-use.md)
-* [8 After-sales service](page/8-After-sales-service.md)
-* [9 Frequently asked questions/contact information](page/9-questions.md)
-
+* [7 使用须知](page/7-Notes-on-use.md)
+* [8 售后服务](page/8-After-sales-service.md)
+* [9 常见问题/联系信息](page/9-questions.md)
