@@ -22,13 +22,13 @@ Rather than a toy, MarsCat is more like a friend or a family that accompanies yo
 
 ![](..\image\MarsCat_demo\1619491521668.png)
 
-## 5.3 Interactions with MarsCat
+## 5.3 与MarsCat火星仿生猫互动
 
-MarsCat is a good companion, it is fully responsive and interactive.
+MarsCat火星仿生猫是一个很合适的陪伴者，它的交互性很强。
 
-It has touch,image and voice recognition, can feel your touch, hear your voice, see your face or even play with toys and etc.
+它有触摸识别、图像识别和声音识别，能够感受你的触摸、听到你的声音，看见你的脸，甚至能够玩耍等。
 
-| 眼睛<br />图像                                     | 含义                                                                                                                                                   |
+| 眼睛图像                                     | 含义                                                                                                                                                   |
 | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![](image/5-Character-Development/1622702403880.png) | 低电量，MarsCat火星仿生猫需要充电                                                                                                                      |
 | ![](image/5-Character-Development/1622702428777.png) | MarsCat火星仿生猫正在充电                                                                                                                              |
@@ -45,44 +45,97 @@ It has touch,image and voice recognition, can feel your touch, hear your voice, 
 | ![](image/5-Character-Development/1622702583299.png) | MarsCat火星仿生猫感觉温度变高，你应该把它带到一个温度低一点的地方，并让它休息一会。                                                                    |
 | ![](image/5-Character-Development/1622702598335.png) | 当MarsCat火星仿生猫睡觉时会出现这个图案，如果你在MarsAPP设置了它的睡眠时间，那么它的眼睛就会在那个时间段显示这样的图案                                 |
 
-**5.3.1Touch Recognition: feel you**
+**5.3.1触摸识别：感受你**
 
-- MarsCat supports Touch Recognition, you can touch or pick up your MarsCat.
-- When you pick up your MarsCat or touch its head, jaw and back or even hug it, it will response to you in different interesting reactions.
-- Do not pick up or touch MarsCat with excessive force to avoid the risk of a malfunction.
+- MarsCat火星仿生猫支持触摸识别，你可以触碰或抱起你的MarsCat火星仿生猫。
+- 当你抱起你的MarsCat火星仿生猫或者触碰它的头、下巴、背部甚至拥抱它，它会对你做出不同的有趣的回应。
+- 为了避免造成故障，请不要过度用力抱起或者触碰你的MarsCat火星仿生猫。
 
-**5.3.2Image Recognition: see you**
+**5.3.2图像识别：看见你**
 
-- MarsCat has a front-view camera on its nose that acts as human or animal eyes, supports Image Recognition, including faces and objects.
-- When you show the blue ball or the Cat Teasers (supplied) to your MarsCat or put either of them close to it, MarsCat may show interest or start playing with it.
-- You can even pet MarsCat with its own bowl. When MarsCat identifies its bowl, it may appear to be drinking or eating according to its physical conditions.
-- Reactions of Image Recognition in default can be added and changed by procedural programming.
+- MarsCat火星仿生猫在它的鼻子处有一个前视的摄像机，就像人类或动物的眼睛。支持图像识别，包括人脸和物体。
+- 当你向你的MarsCat火星仿生猫展示小蓝球，或者把小蓝球放到MarsCat火星猫鼻子附近，MarsCat火星仿生猫可能会表现出对球的兴趣并且开始玩。
+- 你甚至可以使用猫碗饲养MarsCat火星仿生猫，当MarsCat火星仿生猫识别到它的猫碗时，它可能是物理设定感到口渴或是饥饿。
+- 默认情况下的图像识别反应可以通过程序编程进行添加和更改。
 
-**5.3.3Voice Recognition: hear you**
+**5.3.3声音识别：听见你Voice Recognition: hear you**
 
-- MarsCat supports Voice Recognition. MarsCat can response to you in different ways when you communicate with your MarsCat in the following Voice Commands.
-- When your MarsCat fails to recognize Voice Commands, please take it to a quieter place and try again.
-- The current version of Voice Recognition supports Chinese and English.
-- You'd better to call "MarsCat" to awake MarsCat so that these voice conmmands is useful.
+- MarsCat火星仿生猫支持声音识别，当你和你的MarsCat火星仿生猫用以下指令交流时，MarsCat可以对你做出不同的回应。
+- 当你的MarsCat无法识别语音指令时，请把他带到一个安静的地方，再尝试一遍。
+- 目前的语音指令仅支持中文和英文。
+- 为了保证这些指令能够得到回应，你可以在指令前先叫“猫”“小猫”“咪咪”以唤醒你的MarsCat火星仿生猫。
 
-| **Category** | **Voice Commands** | **Description**                                          |
-| ------------------ | ------------------------ | -------------------------------------------------------------- |
-| **Actions**  | Walk around              | Walk                                                           |
-|                    | Run away                 | Run                                                            |
-|                    | Relax                    | Stretch                                                        |
-|                    | Sit down                 | Sit down                                                       |
-|                    | Stand up                 | Stand up                                                       |
-|                    | Lie down                 | Lie down                                                       |
-|                    | Stop                     | Stops the actions in progress.                                 |
-|                    | Be quiet                 | Stops sounds and actions in progress.                          |
-|                    | Come here                | Identify the location of the speaker and walks to him or her.  |
-|                    | Go away                  | MarsCat will leave                                             |
-|                    | Go to eat                | Identify the location of the bowl and walks to it.             |
-|                    | Look at me               | Turns in the direction of the speaker and looks at him or her. |
-|                    | Find your bowl           | MarsCat will find his/her bowl                                 |
-| **Emotions** | Good job                 | Takes it as a complement and reacts positiely.                 |
-|                    | I like you/I love you    |                                                                |
-|                    | Thank you                |                                                                |
-|                    | Well done                |                                                                |
-|                    | Bad boy                  | Takes it as a discipline and reacts sadly.                     |
-|                    | Bad girl                 |                                                                |
+<table>
+<tr>
+	<td>类别</td>
+	<td>语言指令</td>
+	<td>描述</td>
+</tr>
+<tr>
+	<td rowspan="12">动作</td>
+	<td>站着</td>
+	<td>MarsCat火星仿生猫会站着</td>
+</tr>
+<tr>
+	<td>走开</td>
+	<td>MarsCat火星仿生猫会远离你</td>
+</tr>
+<tr>
+	<td>坐下</td>
+	<td>MarsCat火星猫会坐下来</td>
+</tr>
+<tr>
+	<td>跑起来</td>
+	<td>MarsCat火星仿生猫可能会跑动（比平时走路快一点）</td>
+</tr>
+<tr>
+	<td>停下来</td>
+	<td rowspan="3">MarsCat火星仿生猫会停止行动</td>
+</tr>
+<tr>
+	<td>休息</td>
+</tr>
+<tr>
+	<td>不要</td>
+</tr>
+<tr>
+	<td>别吵</td>
+	<td>MarsCat火星仿生猫可能就会停止发出声音</td>
+</tr>
+<tr>
+	<td>到这来</td>
+	<td>MarsCat火星仿生猫会向着声源处走过来</td>
+</tr>
+<tr>
+	<td>走一下</td>
+	<td>MarsCar火星仿生猫会走动</td>
+</tr>
+<tr>
+	<td>看着我</td>
+	<td>MarsCat火星仿生猫会看着你</td>
+</tr>
+<tr>
+	<td>你的碗呢</td>
+	<td>MarsCat火星仿生猫会四处走去寻找猫碗，但如果距离太远，会找不到。</td>
+</tr>
+<tr>
+	<td rowspan="5">情感</td>
+	<td>好样的</td>
+	<td rowspan="4">它会很愉悦，表现得很快乐</td>
+</tr>
+<tr>
+	<td>我喜欢你/我爱你</td>
+</tr>
+<tr>
+	<td>谢谢你</td>
+</tr>
+<tr>
+	<td>做的好</td>
+</tr>
+<tr>
+	<td>坏家伙</td>
+	<td>它会表现得悲伤、沮丧</td>
+</tr>
+</table>
+
+
