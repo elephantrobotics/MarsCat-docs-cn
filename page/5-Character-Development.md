@@ -2,23 +2,23 @@
 
 ## 5.1 了解你的MarsCat火星仿生猫
 
-MarsCat is the world's first bionic pet cat developed by Elephant Robotics, aiming to be a home robot, a robotic pet to comfort you and surprise you.
+MarsCat火星仿生猫是大象机器人科技有限公司研发的世界首只仿生机器猫，旨在成为一个家庭机器人，宠物机器人，陪伴你，给你惊喜。
 
-MarsCat can walk, run, sleep, sit, stretch, bites nail, knead and even bury litter although she won't produce any waste. It may express different emotions by different meows or gestures. It can feel your touch, hear your voice, see your face and play with toys.
+MarsCat火星仿生猫能走、跑、睡觉、坐着、伸懒腰、咬指甲、揉捏、埋猫砂，即使他不会产生任何垃圾。它可能用不同的声音和姿势来表达不同的情绪，它可以感觉到你的触摸，听到你的声音，看到你的脸以及玩玩具。
 
-Every MarsCat is unique from its eye to body. It also has different characters and personalities. Some cats are vivacious, while some are lazy. Some cats are aloof while some are more close to human. Also, some cats are super curious and they meow frequently.
+每只MarsCat火星仿生猫都是独一无二的，从眼睛到身体。它也有不同的人物和个性。有些猫很活泼，有些很懒。有些猫很冷漠，而有些猫更亲近人类。此外，一些猫是超级好奇，他们经常喵喵叫。
 
-MarsCat is built to allow you to shape its personalities according to the way you pet it. More interactions with MarsCat will impel it to be more close to you. More conversations with MarsCat will impel it to meow to you often. Every time you touch it, talk to it or even let it see you, will change its personality.
+MarsCat火星仿生猫的构建是为了让你根据饲养它的方式塑造它的个性。与MarsCat火星仿生猫的更多互动将使它更贴近你。与火星猫的更多对话将使它经常向你喵喵叫。每次你触摸它，与它交谈，甚至让它看到你，将塑造它独一无二的个性。
 
 ![性格](..\image\MarsCat_demo\1619491502181.png)
 
 ## 5.2 MarsCat火星仿生猫的日常
 
-With bionic designed and high-tech, MarsCat have independent and autonomous living systems. Different types of sensors including image, voice and touch are integrated to carry out feature extraction, pattern recognition and action planning to build intelligent brain for MarsCat.
+凭借仿生设计和高科技，MarsCat火星仿生猫拥有独立自主的生活系统。不同类型的传感器，包括图像，语音和触摸集成，以进行功能提取，模式识别和动作规划，为MarsCat火星仿生猫建立智能大脑。
 
-Just like a real cat, MarsCat has capabilities to understand where it is or whom it is with, and acts based on its feelings and instincts. You will never know what MarsCat will do next. Free to walk, play with toys or sleep in a daze? MarsCat have more freedom to do what she wants to do.
+就像一只真正的猫一样，MarsCat火星仿生猫有能力了解它在哪里或和谁在一起，并且根据它的感情和本能采取行动。你永远不会知道火星猫下一步会做什么。自由行走、玩玩具或在发呆睡觉？火星猫有更多的自由去做她想做的事。
 
-Rather than a toy, MarsCat is more like a friend or a family that accompanies you to grow up together.
+火星猫更像是一个朋友或一个家庭，陪伴你一起成长，而不是一个玩具。
 
 ![](..\image\MarsCat_demo\1619491521668.png)
 
@@ -28,11 +28,11 @@ MarsCat火星仿生猫是一个很合适的陪伴者，它的交互性很强。
 
 它有触摸识别、图像识别和声音识别，能够感受你的触摸、听到你的声音，看见你的脸，甚至能够玩耍等。
 
-| 眼睛图像                                     | 含义                                                                                                                                                   |
+| 眼睛图像                                           | 含义                                                                                                                                                   |
 | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![](image/5-Character-Development/1622702403880.png) | 低电量，MarsCat火星仿生猫需要充电                                                                                                                      |
 | ![](image/5-Character-Development/1622702428777.png) | MarsCat火星仿生猫正在充电                                                                                                                              |
-| ![](image/5-Character-Development/1622702445204.png) | 当MarsCat火星仿生猫看到小蓝球的时候，它的眼睛图像可能会如图所示，MarsCat火星仿生猫是一只有个性的猫，有时候即使它看到了小篮球，它的眼睛也不会发生变化。 |
+| ![](image/5-Character-Development/1622702445204.png) | 当MarsCat火星仿生猫看到小蓝球的时候，它的眼睛图像可能会如图所示，MarsCat火星仿生猫是一只有个性的猫，有时候即使它看到了小蓝球，它的眼睛也不会发生变化。 |
 | ![](image/5-Character-Development/1622702455430.png) | 当MarsCat火星仿生猫看到人脸的时候，它的眼睛图像可能会如图所示，MarsCat火星仿生猫是一只有个性的猫，有时候即使它看到了你，它的眼睛也不会发生变化。       |
 | ![](image/5-Character-Development/1622702474175.png) | 当MarsCat火星仿生猫听到你的声音时，它的眼睛可能会变化如图                                                                                              |
 | ![](image/5-Character-Development/1622702483614.png) | 当MarsCat火星仿生猫感到晕眩，或者它仍然犯困时，它的眼睛可能会有这样的图像。                                                                            |
@@ -43,7 +43,7 @@ MarsCat火星仿生猫是一个很合适的陪伴者，它的交互性很强。
 | ![](image/5-Character-Development/1622702561618.png) | 出现这个图像，意味着MarsCat火星仿生猫处在边缘，它感觉到有掉落的危险，你应该把它放在一个安全的地方。                                                    |
 | ![](image/5-Character-Development/1622702570989.png) | 当MarsCat火星仿生猫摔倒，或者它感到危险时，它的眼睛可能变化如图，你应该把它带到一个安全的地方。                                                        |
 | ![](image/5-Character-Development/1622702583299.png) | MarsCat火星仿生猫感觉温度变高，你应该把它带到一个温度低一点的地方，并让它休息一会。                                                                    |
-| ![](image/5-Character-Development/1622702598335.png) | 当MarsCat火星仿生猫睡觉时会出现这个图案，如果你在MarsAPP设置了它的睡眠时间，那么它的眼睛就会在那个时间段显示这样的图案                                 |
+| ![](image/5-Character-Development/1622702598335.png) | 当MarsCat火星仿生猫睡觉时会出现这个图案，如果你在MarsApp设置了它的睡眠时间，那么它的眼睛就会在那个时间段显示这样的图案                                 |
 
 **5.3.1触摸识别：感受你**
 
@@ -54,14 +54,14 @@ MarsCat火星仿生猫是一个很合适的陪伴者，它的交互性很强。
 **5.3.2图像识别：看见你**
 
 - MarsCat火星仿生猫在它的鼻子处有一个前视的摄像机，就像人类或动物的眼睛。支持图像识别，包括人脸和物体。
-- 当你向你的MarsCat火星仿生猫展示小蓝球，或者把小蓝球放到MarsCat火星猫鼻子附近，MarsCat火星仿生猫可能会表现出对球的兴趣并且开始玩。
+- 当你向你的MarsCat火星仿生猫展示小蓝球，或者把小蓝球放到MarsCat火星仿生猫鼻子附近，MarsCat火星仿生猫可能会表现出对球的兴趣并且开始玩。
 - 你甚至可以使用猫碗饲养MarsCat火星仿生猫，当MarsCat火星仿生猫识别到它的猫碗时，它可能是物理设定感到口渴或是饥饿。
 - 默认情况下的图像识别反应可以通过程序编程进行添加和更改。
 
 **5.3.3声音识别：听见你Voice Recognition: hear you**
 
-- MarsCat火星仿生猫支持声音识别，当你和你的MarsCat火星仿生猫用以下指令交流时，MarsCat可以对你做出不同的回应。
-- 当你的MarsCat无法识别语音指令时，请把他带到一个安静的地方，再尝试一遍。
+- MarsCat火星仿生猫支持声音识别，当你和你的MarsCat火星仿生猫用以下指令交流时，MarsCat火星仿生猫可以对你做出不同的回应。
+- 当你的MarsCat火星仿生猫无法识别语音指令时，请把他带到一个安静的地方，再尝试一遍。
 - 目前的语音指令仅支持中文和英文。
 - 为了保证这些指令能够得到回应，你可以在指令前先叫“猫”“小猫”“咪咪”以唤醒你的MarsCat火星仿生猫。
 
@@ -137,5 +137,3 @@ MarsCat火星仿生猫是一个很合适的陪伴者，它的交互性很强。
 	<td>它会表现得悲伤、沮丧</td>
 </tr>
 </table>
-
-
