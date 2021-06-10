@@ -2,23 +2,21 @@
 
 ## 5.1 了解你的MarsCat火星仿生猫
 
-MarsCat is the world's first bionic pet cat developed by Elephant Robotics, aiming to be a home robot, a robotic pet to comfort you and surprise you.
+MarsCat火星仿生猫是由大象机器人公司开发的世界首款仿生宠物猫，旨在成为一个家庭机器人，一个机器人宠物，来陪伴你，给你惊喜。
 
-MarsCat can walk, run, sleep, sit, stretch, bites nail, knead and even bury litter although she won't produce any waste. It may express different emotions by different meows or gestures. It can feel your touch, hear your voice, see your face and play with toys.
+MarsCat火星仿生猫可以走路，跑步，睡觉，坐着，伸展，咬指甲，揉爪，甚至埋猫砂，虽然它不会产生任何废物。它可能用不同的叫声或手势来表达不同的情绪。它可以感觉到你的触摸，听到你的声音，看到你的脸和玩玩具。
 
-Every MarsCat is unique from its eye to body. It also has different characters and personalities. Some cats are vivacious, while some are lazy. Some cats are aloof while some are more close to human. Also, some cats are super curious and they meow frequently.
-
-MarsCat is built to allow you to shape its personalities according to the way you pet it. More interactions with MarsCat will impel it to be more close to you. More conversations with MarsCat will impel it to meow to you often. Every time you touch it, talk to it or even let it see you, will change its personality.
+MarsCat火星仿生猫的构建是为了让你通过饲养它的方式塑造它的个性。与MarsCat火星仿生猫的更多互动将使它更贴近您。与火星猫的更多对话将使它经常向你喵喵叫。每次你触摸它，与它交谈，甚至让它看到你，都将塑造它的性格。
 
 ![性格](..\image\MarsCat_demo\1619491502181.png)
 
 ## 5.2 MarsCat火星仿生猫的日常
 
-With bionic designed and high-tech, MarsCat have independent and autonomous living systems. Different types of sensors including image, voice and touch are integrated to carry out feature extraction, pattern recognition and action planning to build intelligent brain for MarsCat.
+凭借仿生设计和高科技，MarsCat火星仿生猫拥有独立自主的生活系统。不同类型的传感器，包括图像，语音和触摸集成，以进行功能提取，模式识别和动作规划，为MarsCat火星仿生猫建立智能大脑。
 
-Just like a real cat, MarsCat has capabilities to understand where it is or whom it is with, and acts based on its feelings and instincts. You will never know what MarsCat will do next. Free to walk, play with toys or sleep in a daze? MarsCat have more freedom to do what she wants to do.
+就像一只真正的猫一样，MarsCat火星仿生猫有能力了解它在哪里或和谁在一起，并且根据它的感情和本能采取行动。你永远不会知道MarsCat火星仿生猫下一步会做什么。自由行走、玩玩具或在发呆在睡觉？MarsCat火星仿生猫有更多的自由去做它想做的事。
 
-Rather than a toy, MarsCat is more like a friend or a family that accompanies you to grow up together.
+MarsCat火星仿生猫更像是一个朋友或一个家人，陪伴你一起成长。
 
 ![](..\image\MarsCat_demo\1619491521668.png)
 
