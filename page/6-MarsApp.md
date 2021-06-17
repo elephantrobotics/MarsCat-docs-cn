@@ -14,9 +14,8 @@ MarsApp是针对于MarsCat火星仿生猫专门研发的应用程序，您可以
 
 ![](image/6-MarsApp/1622703039803.png)
 
-2.在苹果的应用商店-APPLE STORE搜索Mars App
+2.在苹果的应用商店-APPLE STORE搜索marscat/MarsApp
 
-![](image/6-MarsApp/1622801259166.png)
 
 **版本支持**
 
@@ -40,44 +39,52 @@ MarsApp是针对于MarsCat火星仿生猫专门研发的应用程序，您可以
 
 您可以在MarsAP应用程序的“设置”屏幕上检查系统软件的最新更新，或更改更新方法（自动或手动更新）。建议您将系统软件更新为最新版本。
 
+**蓝牙无法连接**
+
+请判断是下列情况中的哪一种，并使用对应的解决方案
+
+1.搜索不到猫的蓝牙信号
+
+![](file:///C:/Users/Admin/Documents/WXWork/1688851065542459/Cache/Image/2021-06/e404142f41774efd2174d1e8f56f3f7.jpg)![](file:///C:/Users/Admin/Documents/WXWork/1688851065542459/Cache/Image/2021-06/e404142f41774efd2174d1e8f56f3f7.jpg)
+
+**解决方法**：重启猫&重装MarsApp
+
+2.停留在蓝牙连接页面无法打开蓝牙
+
+
+**解决方法**：App首次使用的时候，会弹出一个请求权限框；更新App后，是否有看到请求权限框，如果没有的话，请在后台给App开下权限重新试一下
+
 ## 6.2 如何使用MarsApp
 
 跟随屏幕指导使用MarsApp设置MarsCat火星仿生猫
 
-<img src="..\image\MarsCat_demo\_app1.png" alt="图片替换文本" width="400" height="600" align="bottom" />
+![](image/6-MarsApp/1623919599181.png)
 
-<img src="..\image\MarsCat_demo\_app2.png" alt="图片替换文本" width="400" height="600" align="bottom" />
+![](image/6-MarsApp/1623919648261.png)
 
-<img src="..\image\MarsCat_demo\_app3.png" alt="图片替换文本" width="400" height="600" align="bottom" />
-
-<img src="..\image\MarsCat_demo\_app4.png" alt="图片替换文本" width="400" height="600" align="bottom" />
-
-
+![](image/6-MarsApp/1623919667572.png)
 
 **P1：了解各项基本参数，拥有更多个性化设置**
 
 您可以通过【基础信息】
 
-* 设置MarsCat火星猫眼睛颜色
-* 设置MarsCat火星猫性别
-* 设置MarsCat火星猫睡眠时间
+* 设置MarsCat火星仿生猫眼睛颜色
+* 设置MarsCat火星仿生猫性别
+* 设置MarsCat火星仿生猫睡眠时间
 
 **P2：实时记录动态数据，追踪成长轨迹**
 
 您可以通过【统计资料】
 
-* 了解MarsCat火星猫等级&经验值
+* 了解MarsCat火星仿生猫等级&经验值
+* 了解MarsCat火星仿生猫状态
+* 了解MarsCat火星仿生猫日常指数
 
-* 了解MarsCat火星猫状态
-* 了解MarsCat火星猫日常指数
-
-**P3：拖动示教动作指令，解锁与MarsCat游戏互动**
+**P3：拖动示教动作指令，解锁与MarsCat火星仿生猫游戏互动**
 
 您可以通过【操控】
 
-* 控制MarsCat火星猫移动
-* 控制MarsCat火星猫语音
-
-* 控制MarsCat火星猫视觉
-
-l 控制MarsCat火星猫传感器
+* 控制MarsCat火星仿生猫移动
+* 记录MarsCat火星仿生猫语音
+* 记录MarsCat火星仿生猫视觉
+* 记录MarsCat火星仿生猫传感器
