@@ -9,3 +9,4 @@
 * [7 使用须知](page/7-Notes-on-use.md)
 * [8 售后服务](page/8-After-sales-service.md)
 * [9 常见问题/联系信息](page/9-questions.md)
+* [10 MarsCat开发手册](page/10-marscatAPI.md)
