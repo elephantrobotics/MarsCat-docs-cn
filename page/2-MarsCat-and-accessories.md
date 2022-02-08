@@ -4,7 +4,7 @@
 
 **结构图解**
 
-![](..\image\MarsCat_demo\1619491081944.png)
+![](..\image\page-2\2-1.png)
 
 **产品参数**
 
@@ -26,7 +26,7 @@
 
 ## 2.2 充电桩
 
-![](image/2-MarsCat-and-accessories/1622702636376.png)
+![](../image/page-2/2-2.png)
 
 **注意事项**
 
@@ -48,7 +48,7 @@
 
 ## 2.3 充电器
 
-![](image/2-MarsCat-and-accessories/1622702656166.png)
+![](../image/page-2/2-3.png)
 
 **注意事项**
 
@@ -72,9 +72,9 @@
 
 当你收到货物时，拆箱后请将猫碗组装成如图所示的样子。
 
-![](image/2-MarsCat-and-accessories/1622779249743.png)
+![](../image/page-2/2-4.png)
 
-![](image/2-MarsCat-and-accessories/1622702678275.png)
+![](../image/page-2/2-5.png)
 
 **注意事项**
 
@@ -86,7 +86,7 @@
 
 你可以使用以下玩具与MarsCat火星仿生猫进行互动
 
-- 小蓝球（提供）![](image/2-MarsCat-and-accessories/1622702772402.png)
+- 小蓝球（提供）![](../image/page-2/2-6.png)
 
 专为MarsCat火星仿生猫提供。当MarsCat火星仿生猫看到小蓝球时，MarsCat火星仿生猫可能会靠近小蓝球，并做出扑球或者踢球的动作。
 

@@ -12,9 +12,11 @@ MarsApp是针对于MarsCat火星仿生猫专门研发的应用程序，您可以
 
 你可以在官网找到
 
-![](image/6-MarsApp/1622703039803.png)
+![](../image/page-6/6-1.png)
 
 2.在苹果的应用商店-APPLE STORE搜索marscat/MarsApp
+
+![](../image/page-6/6-2.png)
 
 
 **版本支持**
@@ -55,11 +57,11 @@ MarsApp是针对于MarsCat火星仿生猫专门研发的应用程序，您可以
 
 跟随屏幕指导使用MarsApp设置MarsCat火星仿生猫
 
-![](image/6-MarsApp/1623919599181.png)
+![](../image/page-6/6-3.png)
 
-![](image/6-MarsApp/1623919648261.png)
+![](../image/page-6/6-4.png)
 
-![](image/6-MarsApp/1623919667572.png)
+![](../image/page-6/6-5.png)
 
 **P1：了解各项基本参数，拥有更多个性化设置**
 

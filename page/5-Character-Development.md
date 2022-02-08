@@ -26,22 +26,22 @@ MarsCat火星仿生猫是一个很合适的陪伴者，它的交互性很强。
 
 它有触摸识别、图像识别和声音识别，能够感受你的触摸、听到你的声音，看见你的脸，甚至能够玩耍等。
 
-| 眼睛图像                                           | 含义                                                                                                                                                   |
-| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![](image/5-Character-Development/1622702403880.png) | 低电量，MarsCat火星仿生猫需要充电                                                                                                                      |
-| ![](image/5-Character-Development/1622702428777.png) | MarsCat火星仿生猫正在充电                                                                                                                              |
-| ![](image/5-Character-Development/1622702445204.png) | 当MarsCat火星仿生猫看到小蓝球的时候，它的眼睛图像可能会如图所示，MarsCat火星仿生猫是一只有个性的猫，有时候即使它看到了小篮球，它的眼睛也不会发生变化。 |
-| ![](image/5-Character-Development/1622702455430.png) | 当MarsCat火星仿生猫看到人脸的时候，它的眼睛图像可能会如图所示，MarsCat火星仿生猫是一只有个性的猫，有时候即使它看到了你，它的眼睛也不会发生变化。       |
-| ![](image/5-Character-Development/1622702474175.png) | 当MarsCat火星仿生猫听到你的声音时，它的眼睛可能会变化如图                                                                                              |
-| ![](image/5-Character-Development/1622702483614.png) | 当MarsCat火星仿生猫感到晕眩，或者它仍然犯困时，它的眼睛可能会有这样的图像。                                                                            |
-| ![](image/5-Character-Development/1622702499077.png) | 当MarsCat火星仿生猫看到它的猫碗，并且当时它感到饥饿。                                                                                                  |
-| ![](image/5-Character-Development/1622702514328.png) | 当MarsCat火星仿生猫享受你的抚摸并且感到愉悦                                                                                                            |
-| ![](image/5-Character-Development/1622702528668.png) | 当你抱MarsCat火星仿生猫并且它感到愉悦                                                                                                                  |
-| ![](image/5-Character-Development/1622702541862.png) | 当MarsCat火星仿生猫在玩玩具或者在自娱自乐                                                                                                              |
-| ![](image/5-Character-Development/1622702561618.png) | 出现这个图像，意味着MarsCat火星仿生猫处在边缘，它感觉到有掉落的危险，你应该把它放在一个安全的地方。                                                    |
-| ![](image/5-Character-Development/1622702570989.png) | 当MarsCat火星仿生猫摔倒，或者它感到危险时，它的眼睛可能变化如图，你应该把它带到一个安全的地方。                                                        |
-| ![](image/5-Character-Development/1622702583299.png) | MarsCat火星仿生猫感觉温度变高，你应该把它带到一个温度低一点的地方，并让它休息一会。                                                                    |
-| ![](image/5-Character-Development/1622702598335.png) | 当MarsCat火星仿生猫睡觉时会出现这个图案，如果你在MarsAPP设置了它的睡眠时间，那么它的眼睛就会在那个时间段显示这样的图案                                 |
+| 眼睛图像                                  | 含义                                                         |
+| ----------------------------------------- | ------------------------------------------------------------ |
+| ![](../image/page-5/low power.png)        | 低电量，MarsCat火星仿生猫需要充电                            |
+| ![](../image/page-5/charge.png)           | MarsCat火星仿生猫正在充电                                    |
+| ![](../image/page-5/ball.png)             | 当MarsCat火星仿生猫看到小蓝球的时候，它的眼睛图像可能会如图所示，MarsCat火星仿生猫是一只有个性的猫，有时候即使它看到了小篮球，它的眼睛也不会发生变化。 |
+| ![](../image/page-5/face.png)             | 当MarsCat火星仿生猫看到人脸的时候，它的眼睛图像可能会如图所示，MarsCat火星仿生猫是一只有个性的猫，有时候即使它看到了你，它的眼睛也不会发生变化。 |
+| ![](../image/page-5/voice.png)            | 当MarsCat火星仿生猫听到你的声音时，它的眼睛可能会变化如图    |
+| ![](../image/page-5/dizzy.png)            | 当MarsCat火星仿生猫感到晕眩，或者它仍然犯困时，它的眼睛可能会有这样的图像。 |
+| ![](../image/page-5/hungry.png)           | 当MarsCat火星仿生猫看到它的猫碗，并且当时它感到饥饿。        |
+| ![](../image/page-5/heart.png)            | 当MarsCat火星仿生猫享受你的抚摸并且感到愉悦                  |
+| ![](../image/page-5/hug.png)              | 当你抱MarsCat火星仿生猫并且它感到愉悦                        |
+| ![](../image/page-5/teaser.png)           | 当MarsCat火星仿生猫在玩玩具或者在自娱自乐                    |
+| ![](../image/page-5/edge.png)             | 出现这个图像，意味着MarsCat火星仿生猫处在边缘，它感觉到有掉落的危险，你应该把它放在一个安全的地方。 |
+| ![](../image/page-5/flip.png)             | 当MarsCat火星仿生猫摔倒，或者它感到危险时，它的眼睛可能变化如图，你应该把它带到一个安全的地方。 |
+| ![](../image/page-5/high temperature.png) | MarsCat火星仿生猫感觉温度变高，你应该把它带到一个温度低一点的地方，并让它休息一会。 |
+| ![](../image/page-5/sleep.png)            | 当MarsCat火星仿生猫睡觉时会出现这个图案，如果你在MarsAPP设置了它的睡眠时间，那么它的眼睛就会在那个时间段显示这样的图案 |
 
 **5.3.1触摸识别：感受你**
 
