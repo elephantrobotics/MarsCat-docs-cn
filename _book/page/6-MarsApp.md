@@ -8,13 +8,15 @@ MarsApp是针对于MarsCat火星仿生猫专门研发的应用程序，您可以
 
 安装MarsApp到你的手机上
 
-1.官网谷歌下载：[MarsCat – Elephant Robotics](https://www.elephantrobotics.com/en/mars-en/)
+1.官网下载：[MarsCat – Elephant Robotics](https://www.elephantrobotics.com/en/mars-en/)
 
 你可以在官网找到
 
-![](image/6-MarsApp/1622703039803.png)
+![](../image/page-6/6-1.png)
 
 2.在苹果的应用商店-APPLE STORE搜索marscat/MarsApp
+
+![](../image/page-6/6-2.png)
 
 
 **版本支持**
@@ -37,7 +39,7 @@ MarsApp是针对于MarsCat火星仿生猫专门研发的应用程序，您可以
 
 **软件更新**
 
-您可以在MarsApp应用程序的“设置”屏幕上检查系统软件的最新更新，或更改更新方法（自动或手动更新）。建议您将系统软件更新为最新版本。
+可在官网下载新版本软件、或者在应用商店中更新。
 
 **蓝牙无法连接**
 
@@ -45,9 +47,13 @@ MarsApp是针对于MarsCat火星仿生猫专门研发的应用程序，您可以
 
 1.搜索不到猫的蓝牙信号
 
+![](../image/page-6/6-6.png)
+
 **解决方法**：重启猫&重装MarsApp
 
 2.停留在蓝牙连接页面无法打开蓝牙
+
+![](../image/page-6/6-7.png)
 
 **解决方法**：App首次使用的时候，会弹出一个请求权限框；更新App后，是否有看到请求权限框，如果没有的话，请在后台给App开下权限重新试一下
 
@@ -55,11 +61,11 @@ MarsApp是针对于MarsCat火星仿生猫专门研发的应用程序，您可以
 
 跟随屏幕指导使用MarsApp设置MarsCat火星仿生猫
 
-![](image/6-MarsApp/1623919599181.png)
+![](../image/page-6/6-3.png)
 
-![](image/6-MarsApp/1623919648261.png)
+![](../image/page-6/6-4.png)
 
-![](image/6-MarsApp/1623919667572.png)
+![](../image/page-6/6-5.png)
 
 **P1：了解各项基本参数，拥有更多个性化设置**
 
@@ -77,11 +83,11 @@ MarsApp是针对于MarsCat火星仿生猫专门研发的应用程序，您可以
 * 了解MarsCat火星仿生猫状态
 * 了解MarsCat火星仿生猫日常指数
 
-**P3：拖动示教动作指令，解锁与MarsCat火星仿生猫游戏互动**
+**P3：解锁与MarsCat火星仿生猫游戏互动**
 
 您可以通过【操控】
 
 * 控制MarsCat火星仿生猫移动
-* 记录MarsCat火星仿生猫语音
-* 记录MarsCat火星仿生猫视觉
-* 记录MarsCat火星仿生猫传感器
+* 检查MarsCat火星仿生猫语音
+* 检查MarsCat火星仿生猫视觉
+* 检查MarsCat火星仿生猫传感器

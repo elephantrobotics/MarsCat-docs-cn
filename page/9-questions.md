@@ -18,7 +18,7 @@ MarsCat的眼睛有不同的设定，触发条件也不同。
 
 电池型号为INR18650MJ1-2S2P，由大象机器人专供。
 
-如需换新，请访问大象机器人官网查阅相关信息并进行购买https://www.elephantrobotics.com/。
+如需换新，请访问大象机器人官网查阅相关信息并进行购买https://www.elephantrobotics.com/
 
 **4.如何给MarsCat火星仿生猫充电**
 
@@ -124,7 +124,7 @@ MarsCat的关节是有限制角度的，不能强硬掰动，可能会造成关�
 
 深圳市大象机器人科技有限公司
 
-地址：深圳市南山区桃源街道留仙大道南山云谷创新产业园二期7栋
+地址：深圳市福田区华强北街道福强社区深南中路 2070 号中电广场大厦 5 层D5F05
 
 邮件：[support@elephantrobotics.com](support@elephantrobotics.com)
 
